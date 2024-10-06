@@ -30,3 +30,6 @@ Problem Solving:
 
 10. Task: Find Maximum Value:
     Write a function that takes an array of numbers and returns the maximum value.
+
+11. Task: Advanced Sorting
+    Create an array of objects representing students with 'name' and 'grades' properties. Write a function to sort the students by average grade in descending order.
